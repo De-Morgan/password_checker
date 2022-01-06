@@ -1,6 +1,10 @@
 # flutter_hooks_example
 
-A new Flutter application.
+A flutter demo project to show how to implement password checker using flutter hooks
+
+## Demo gif
+
+![](https://raw.githubusercontent.com/De-Morgan/password_checker/master/assets/password_checker.gif)
 
 ## Getting Started
 
